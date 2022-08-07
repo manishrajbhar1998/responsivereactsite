@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/responsivereactsite/static/css/main.acec8a0c.css",
+    "main.js": "/responsivereactsite/static/js/main.90246023.js",
+    "static/media/android.jpg": "/responsivereactsite/static/media/android.604df48751def0c021e6.jpg",
+    "static/media/about.jpg": "/responsivereactsite/static/media/about.9c7153aec94ffa68ab8b.jpg",
+    "static/media/roket.jpg": "/responsivereactsite/static/media/roket.cf87ae843c0b44fcb973.jpg",
+    "static/media/web.jpg": "/responsivereactsite/static/media/web.db2d5cd7735ec8b2dee4.jpg",
+    "static/media/digital.jpg": "/responsivereactsite/static/media/digital.7181fd7f8aa8e85ca2e2.jpg",
+    "static/media/marketing.jpg": "/responsivereactsite/static/media/marketing.c872aa67637994c9de26.jpg",
+    "static/media/web-con.jpg": "/responsivereactsite/static/media/web-con.fbc3445056c138fa55fc.jpg",
+    "static/media/analitics.png": "/responsivereactsite/static/media/analitics.b673dbc1dce93c675e42.png",
+    "index.html": "/responsivereactsite/index.html",
+    "main.acec8a0c.css.map": "/responsivereactsite/static/css/main.acec8a0c.css.map",
+    "main.90246023.js.map": "/responsivereactsite/static/js/main.90246023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acec8a0c.css",
+    "static/js/main.90246023.js"
+  ]
+}
